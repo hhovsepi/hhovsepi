@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **hhovsepi@gmail.com**
 
-- 🔭 I’m currently working at [Hyperspect.ai](https://www.hyperspect.ai/) - where we pair public data with NLP engines to create dynamic sales personalization at scale
-
 - 🔬 Check out my **measured skills** on [TripleByte](https://triplebyte.com/tb/haig-hovsepian-5gtjtm2/certificate/)
 
 - ⚡ Fun fact **I am very good at rhyming words together in cadence. This is just a random skill I have ッ**
