@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Haig (pronounced Hike)</h1>
 <h3 align="left">Guy who likes video games, music, programming, NLP, and entrepreneurship.</h3>
 
-- 🔭 I’m currently working at [Hyperspect.ai - where we pair public data with NLP engines to create dynamic sales personalization at scale.](https://www.hyperspect.ai/)
-
 - 🌱 I’m currently learning **Software Design Principles, Python, & React**
 
 - 📫 How to reach me **hhovsepi@gmail.com**
