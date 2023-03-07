@@ -1,14 +1,6 @@
 <h1 align="left">Hi 👋, I'm Haig (pronounced Hike)</h1>
 <h3 align="left">Guy who likes video games, music, programming, NLP, and entrepreneurship.</h3>
 
-- 🌱 I’m currently learning **Software Design Principles, Python, & React**
-
-- 📫 How to reach me **hhovsepi@gmail.com**
-
-- 🔬 Check out my **measured skills** on [TripleByte](https://triplebyte.com/tb/haig-hovsepian-5gtjtm2/certificate/)
-
-- ⚡ Fun fact **I am very good at rhyming words together in cadence. This is just a random skill I have ッ**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/hike-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hike-dev" height="30" width="40" /></a>
